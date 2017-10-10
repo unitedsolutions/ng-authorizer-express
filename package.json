@@ -1,0 +1,29 @@
+{
+  "name": "ng-authorizer-express",
+  "version": "0.5.0",
+  "description": "Backend implementation for the ng-authorizer permissioning module",
+  "main": "index.js",
+  "author": "Dmitriy A. Nesterkin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unitedsolutions/ng-authorizer-express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/unitedsolutions/ng-authorizer-express/issues"
+  },
+  "author": "Dmitriy A. Nesterkin",
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "ui",
+    "server-side",
+    "backend",
+    "authorizer",
+    "permissions"
+  ],
+  "dependencies": {
+    "express": "^4.15.4",
+    "lodash": "^4.17.4",
+    "mongodb": "^2.2.31"
+  }
+}
